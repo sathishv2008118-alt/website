@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-# Date:
+# Date:01/12/2025
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
@@ -27,9 +27,10 @@ Publish the website in the given URL.
 
 # PROGRAM:
 index.html
-```
+
 <!DOCTYPE html>
-<html>
+
+```<html>
 <head>=
     <title>EQUITORIAL</title>
     <style>
@@ -151,10 +152,10 @@ index.html
 
 </body>
 </html>
-````
+
 menu.html
 
-```<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -271,10 +272,10 @@ menu.html
 </div>
 
 </body>
-</html>```
+</html>
 adminstration.html
 
-```<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <head>
     <title>Administration - HOTSPOT</title>
@@ -398,9 +399,9 @@ adminstration.html
 </div>
 
 </body>
-</html>```
+</html>
 contact.html
-```<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <head>
     <title>Contact Us - HOTSPOT</title>
@@ -487,8 +488,8 @@ contact.html
 </div>
 
 </body>
-</html>```
-
+</html>
+```
 
 
 # OUTPUT
